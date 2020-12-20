@@ -2,7 +2,7 @@
 ===============
 
 ## 블로그
-http://common-labour.gq/  
+https://goonerholic.github.io
 https://velog.io/@goonerholic
 
 ## 🚀 Tech stack
