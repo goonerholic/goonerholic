@@ -2,7 +2,7 @@
 ===============
 
 ## 블로그
-https://goonerholic.github.io
+https://goonerholic.github.io  
 https://velog.io/@goonerholic
 
 ## 🚀 Tech stack
